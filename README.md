@@ -53,7 +53,7 @@ See the [JavaScript API](docs/API.md) to get started with your script. Your scri
 You will need some basic knowledge about installing the required languages and tools. If you need help, do not hesitate to ask! To get started, you will need:
 
 1. Git
-2. Xcode 10 or higher
+2. Xcode 11 or higher
 3. Xcode command line tools
 
 First clone the repository from a terminal:
@@ -75,7 +75,7 @@ Once complete, you will find a newly built Phoenix app in `build/Release/`. Afte
 
 Phoenix manages dependencies with [CocoaPods](https://cocoapods.org). Note that you do not need CocoaPods for basic development. However, if you want to install new pods or update existing ones, you will also need:
 
-4. [Ruby](https://www.ruby-lang.org) (2.5.3 or higher), it is recommended that you manage Ruby versions with for instance [rbenv](https://github.com/rbenv/rbenv/)
+4. [Ruby](https://www.ruby-lang.org) (2.7.0 or higher), it is recommended that you manage Ruby versions with for instance [rbenv](https://github.com/rbenv/rbenv/)
 5. [Bundler](http://bundler.io)
 6. CocoaPods
 
